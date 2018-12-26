@@ -1,4 +1,8 @@
 {
   "LOGIN": "Login",
-  "USER_NAME": "User Name"
+  "USER_NAME": "User Name",
+  "PASSWORD": "Password",
+  "REMEMBER": "Remember me",
+  "BUTTON_LANG_EN": "English",
+  "BUTTON_LANG_CN": "ChineseCN"
 }

@@ -2,41 +2,25 @@
   {
     "name": "Superman",
     "location": "Atfjow Gwofe",
+    "password":"aaa",
     "age": 38
   },
   {
-    "name": "Tobias",
+    "name": "Scarlet",
     "location": "Atfjow Gwofe",
+    "password":"aaa",
     "age": 38
   },
   {
-    "name": "Jeff",
+    "name": "admin",
     "location": "Atfjow Gwofe",
+    "password":"aaa",
     "age": 38
   },
   {
-    "name": "Brian",
+    "name": "Superman",
     "location": "Atfjow Gwofe",
+    "password":"aaa",
     "age": 38
-  },
-  {
-    "name": "Igor",
-    "location": "Atfjow Gwofe",
-    "age": 38
-  },
-  {
-    "name": "Brad",
-    "location": "Atfjow Gwofe",
-    "age": 38
-  },
-  {
-    "name": "James",
-    "location": "Atfjow Gwofe",
-    "age": 38
-  },
-  {
-    "name": "Batman",
-    "location": "Wayne Manor",
-    "age": 28
   }
 ]
